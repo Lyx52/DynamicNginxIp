@@ -1,0 +1,7 @@
+{
+    "base_url": "",
+    "email": "",
+    "password": "",
+    "recheck_mins": 5,
+    "proxy_replace": [1,2,3]
+}
